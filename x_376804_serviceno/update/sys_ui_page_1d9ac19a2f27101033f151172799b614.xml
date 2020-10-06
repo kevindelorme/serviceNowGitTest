@@ -2,7 +2,7 @@
     <sys_ui_page action="INSERT_OR_UPDATE">
         <category>general</category>
         <client_script><![CDATA[alert('Hello Kevin');
-alert('Hello Kevin');]]></client_script>
+alert('Helloadadadadadadadadadada Kevin');]]></client_script>
         <description>Kevin test edit</description>
         <direct>false</direct>
         <endpoint>x_376804_serviceno_MyServiceNowGitTestUIPage.do</endpoint>
